@@ -1,0 +1,15 @@
+C:\Users\felix.mikaelsson\Desktop\C_game\C_game\c#_game\bin\Debug\net9.0\c#_game.exe
+C:\Users\felix.mikaelsson\Desktop\C_game\C_game\c#_game\bin\Debug\net9.0\c#_game.deps.json
+C:\Users\felix.mikaelsson\Desktop\C_game\C_game\c#_game\bin\Debug\net9.0\c#_game.runtimeconfig.json
+C:\Users\felix.mikaelsson\Desktop\C_game\C_game\c#_game\bin\Debug\net9.0\c#_game.dll
+C:\Users\felix.mikaelsson\Desktop\C_game\C_game\c#_game\bin\Debug\net9.0\c#_game.pdb
+C:\Users\felix.mikaelsson\Desktop\C_game\C_game\c#_game\obj\Debug\net9.0\c#_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix.mikaelsson\Desktop\C_game\C_game\c#_game\obj\Debug\net9.0\c#_game.AssemblyInfoInputs.cache
+C:\Users\felix.mikaelsson\Desktop\C_game\C_game\c#_game\obj\Debug\net9.0\c#_game.AssemblyInfo.cs
+C:\Users\felix.mikaelsson\Desktop\C_game\C_game\c#_game\obj\Debug\net9.0\c#_game.csproj.CoreCompileInputs.cache
+C:\Users\felix.mikaelsson\Desktop\C_game\C_game\c#_game\obj\Debug\net9.0\c#_game.sourcelink.json
+C:\Users\felix.mikaelsson\Desktop\C_game\C_game\c#_game\obj\Debug\net9.0\c#_game.dll
+C:\Users\felix.mikaelsson\Desktop\C_game\C_game\c#_game\obj\Debug\net9.0\refint\c#_game.dll
+C:\Users\felix.mikaelsson\Desktop\C_game\C_game\c#_game\obj\Debug\net9.0\c#_game.pdb
+C:\Users\felix.mikaelsson\Desktop\C_game\C_game\c#_game\obj\Debug\net9.0\c#_game.genruntimeconfig.cache
+C:\Users\felix.mikaelsson\Desktop\C_game\C_game\c#_game\obj\Debug\net9.0\ref\c#_game.dll
